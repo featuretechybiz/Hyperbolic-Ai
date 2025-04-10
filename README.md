@@ -6,11 +6,13 @@ Easily run the Hyperbolic Node on your VPS.
 Official Site: https://app.hyperbolic.xyz/
 
 
-Step-by-Step Instructions
+##.Step-by-Step guide with code
 
-1. Update & Upgrade Your System
+##1.Update & Upgrade Your System
 
-###sudo apt update && sudo apt upgrade -y
+''' bash
+sudo apt update && sudo apt upgrade -y
+'''
 
 2. Install Required Packages
 
