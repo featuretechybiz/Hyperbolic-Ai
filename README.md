@@ -11,8 +11,7 @@ Official Site: https://app.hyperbolic.xyz/
 ##1.Update & Upgrade Your System
 
 ''' bash
-sudo apt update && sudo apt upgrade -y
-'''
+sudo apt update && sudo apt upgrade -y'''
 
 2. Install Required Packages
 
